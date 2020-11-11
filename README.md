@@ -1,5 +1,3 @@
-# Vsi-milijarderji-sveta
-
 # 250-najbogatejših-ljudi
 
 Analiziral bom podatke 250 najbogatejših ljudi s starni:
