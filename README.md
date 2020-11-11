@@ -1,15 +1,19 @@
 # Vsi-milijarderji-sveta
 
-Analiziral bom podatke vseh milijarderjer s starni:
-https://www.forbes.com/billionaires/
+# 250-najbogatejših-ljudi
+
+Analiziral bom podatke 250 najbogatejših ljudi s starni:
+https://www.therichest.com/top-lists/top-250-richest-people-in-the-world/page/1/
 
 Za vsako osebo bom zajel:
 - vrednost osebe
 - starost
+- kraj rojstva
 - državljanstvo
 - kje trenutno živijo
-- podjetnje/a, s katerimi so obogateli
+- izvor bogastva
 - kje so študirali in smer študija
+- število otrok
 
 Delovne hipoteze:
 - Kako je zaslužek povezan, s tem kje so začeli
